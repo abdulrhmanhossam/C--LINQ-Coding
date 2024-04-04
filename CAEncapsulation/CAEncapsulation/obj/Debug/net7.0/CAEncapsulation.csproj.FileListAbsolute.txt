@@ -1,0 +1,14 @@
+E:\C#_Project\CAEncapsulation\CAEncapsulation\bin\Debug\net7.0\CAEncapsulation.exe
+E:\C#_Project\CAEncapsulation\CAEncapsulation\bin\Debug\net7.0\CAEncapsulation.deps.json
+E:\C#_Project\CAEncapsulation\CAEncapsulation\bin\Debug\net7.0\CAEncapsulation.runtimeconfig.json
+E:\C#_Project\CAEncapsulation\CAEncapsulation\bin\Debug\net7.0\CAEncapsulation.dll
+E:\C#_Project\CAEncapsulation\CAEncapsulation\bin\Debug\net7.0\CAEncapsulation.pdb
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.AssemblyInfoInputs.cache
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.AssemblyInfo.cs
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.dll
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\refint\CAEncapsulation.dll
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.pdb
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\CAEncapsulation.genruntimeconfig.cache
+E:\C#_Project\CAEncapsulation\CAEncapsulation\obj\Debug\net7.0\ref\CAEncapsulation.dll

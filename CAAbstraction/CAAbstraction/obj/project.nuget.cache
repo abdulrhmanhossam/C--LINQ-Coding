@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEbvvqMs5yoVINy1lzKNqG562LStM3E+zsC6IY6LK//icqy8L0k/3r/dRu7URUnNnfaxeXnPgy1aEHaaQFuKNA==",
+  "success": true,
+  "projectFilePath": "E:\\C#_Project\\CAAbstraction\\CAAbstraction\\CAAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

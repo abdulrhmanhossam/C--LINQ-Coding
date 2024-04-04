@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADelegate", "CADelegate\CADelegate.csproj", "{EE769D8B-4E16-4629-B34B-09F1D42C6750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE769D8B-4E16-4629-B34B-09F1D42C6750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE769D8B-4E16-4629-B34B-09F1D42C6750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE769D8B-4E16-4629-B34B-09F1D42C6750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE769D8B-4E16-4629-B34B-09F1D42C6750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FCC043-956F-4809-844D-60835EA34A62}
+	EndGlobalSection
+EndGlobal

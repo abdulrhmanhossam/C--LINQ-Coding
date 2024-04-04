@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CANestedTypes\bin\Debug\net7.0\CANestedTypes.exe
+E:\C#_Project\ConsoleApp1\CANestedTypes\bin\Debug\net7.0\CANestedTypes.deps.json
+E:\C#_Project\ConsoleApp1\CANestedTypes\bin\Debug\net7.0\CANestedTypes.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CANestedTypes\bin\Debug\net7.0\CANestedTypes.dll
+E:\C#_Project\ConsoleApp1\CANestedTypes\bin\Debug\net7.0\CANestedTypes.pdb
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.dll
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\refint\CANestedTypes.dll
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.pdb
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\CANestedTypes.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CANestedTypes\obj\Debug\net7.0\ref\CANestedTypes.dll

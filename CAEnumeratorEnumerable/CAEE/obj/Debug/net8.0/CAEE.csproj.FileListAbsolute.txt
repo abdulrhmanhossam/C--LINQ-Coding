@@ -1,0 +1,14 @@
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\bin\Debug\net8.0\CAEE.exe
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\bin\Debug\net8.0\CAEE.deps.json
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\bin\Debug\net8.0\CAEE.runtimeconfig.json
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\bin\Debug\net8.0\CAEE.dll
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\bin\Debug\net8.0\CAEE.pdb
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.AssemblyInfoInputs.cache
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.AssemblyInfo.cs
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.dll
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\refint\CAEE.dll
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.pdb
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\CAEE.genruntimeconfig.cache
+E:\C#_Project\CAEnumeratorEnumerable\CAEE\obj\Debug\net8.0\ref\CAEE.dll

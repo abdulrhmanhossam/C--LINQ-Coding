@@ -1,0 +1,14 @@
+E:\C#_Project\CAMultithreading\CAMultithreading\bin\Debug\net8.0\CAMultithreading.exe
+E:\C#_Project\CAMultithreading\CAMultithreading\bin\Debug\net8.0\CAMultithreading.deps.json
+E:\C#_Project\CAMultithreading\CAMultithreading\bin\Debug\net8.0\CAMultithreading.runtimeconfig.json
+E:\C#_Project\CAMultithreading\CAMultithreading\bin\Debug\net8.0\CAMultithreading.dll
+E:\C#_Project\CAMultithreading\CAMultithreading\bin\Debug\net8.0\CAMultithreading.pdb
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.AssemblyInfoInputs.cache
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.AssemblyInfo.cs
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.dll
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\refint\CAMultithreading.dll
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.pdb
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\CAMultithreading.genruntimeconfig.cache
+E:\C#_Project\CAMultithreading\CAMultithreading\obj\Debug\net8.0\ref\CAMultithreading.dll

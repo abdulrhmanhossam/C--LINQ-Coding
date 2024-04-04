@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMultithreading", "CAMultithreading\CAMultithreading.csproj", "{04F7ACF0-49B1-43AA-91BC-E8F39BA8512C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F7ACF0-49B1-43AA-91BC-E8F39BA8512C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F7ACF0-49B1-43AA-91BC-E8F39BA8512C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F7ACF0-49B1-43AA-91BC-E8F39BA8512C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F7ACF0-49B1-43AA-91BC-E8F39BA8512C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544BBD99-7F35-4A74-8868-2BF57070DDAF}
+	EndGlobalSection
+EndGlobal

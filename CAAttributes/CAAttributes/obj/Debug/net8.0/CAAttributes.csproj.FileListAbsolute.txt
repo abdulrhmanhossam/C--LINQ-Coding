@@ -1,0 +1,14 @@
+E:\C#_Project\CAAttributes\CAAttributes\bin\Debug\net8.0\CAAttributes.exe
+E:\C#_Project\CAAttributes\CAAttributes\bin\Debug\net8.0\CAAttributes.deps.json
+E:\C#_Project\CAAttributes\CAAttributes\bin\Debug\net8.0\CAAttributes.runtimeconfig.json
+E:\C#_Project\CAAttributes\CAAttributes\bin\Debug\net8.0\CAAttributes.dll
+E:\C#_Project\CAAttributes\CAAttributes\bin\Debug\net8.0\CAAttributes.pdb
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.AssemblyInfoInputs.cache
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.AssemblyInfo.cs
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.dll
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\refint\CAAttributes.dll
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.pdb
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\CAAttributes.genruntimeconfig.cache
+E:\C#_Project\CAAttributes\CAAttributes\obj\Debug\net8.0\ref\CAAttributes.dll

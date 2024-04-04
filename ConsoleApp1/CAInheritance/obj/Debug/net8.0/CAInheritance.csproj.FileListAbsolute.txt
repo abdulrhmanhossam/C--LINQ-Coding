@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CAInheritance\bin\Debug\net8.0\CAInheritance.exe
+E:\C#_Project\ConsoleApp1\CAInheritance\bin\Debug\net8.0\CAInheritance.deps.json
+E:\C#_Project\ConsoleApp1\CAInheritance\bin\Debug\net8.0\CAInheritance.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CAInheritance\bin\Debug\net8.0\CAInheritance.dll
+E:\C#_Project\ConsoleApp1\CAInheritance\bin\Debug\net8.0\CAInheritance.pdb
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.dll
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\refint\CAInheritance.dll
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.pdb
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\CAInheritance.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CAInheritance\obj\Debug\net8.0\ref\CAInheritance.dll

@@ -1,0 +1,14 @@
+E:\C#_Project\CAInterface\CAInterface\bin\Debug\net8.0\CAInterface.exe
+E:\C#_Project\CAInterface\CAInterface\bin\Debug\net8.0\CAInterface.deps.json
+E:\C#_Project\CAInterface\CAInterface\bin\Debug\net8.0\CAInterface.runtimeconfig.json
+E:\C#_Project\CAInterface\CAInterface\bin\Debug\net8.0\CAInterface.dll
+E:\C#_Project\CAInterface\CAInterface\bin\Debug\net8.0\CAInterface.pdb
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.AssemblyInfoInputs.cache
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.AssemblyInfo.cs
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.dll
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\refint\CAInterface.dll
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.pdb
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\CAInterface.genruntimeconfig.cache
+E:\C#_Project\CAInterface\CAInterface\obj\Debug\net8.0\ref\CAInterface.dll

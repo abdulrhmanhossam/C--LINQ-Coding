@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CATroubleshooting\bin\Debug\net7.0\CATroubleshooting.exe
+E:\C#_Project\ConsoleApp1\CATroubleshooting\bin\Debug\net7.0\CATroubleshooting.deps.json
+E:\C#_Project\ConsoleApp1\CATroubleshooting\bin\Debug\net7.0\CATroubleshooting.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CATroubleshooting\bin\Debug\net7.0\CATroubleshooting.dll
+E:\C#_Project\ConsoleApp1\CATroubleshooting\bin\Debug\net7.0\CATroubleshooting.pdb
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.dll
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\refint\CATroubleshooting.dll
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.pdb
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\CATroubleshooting.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CATroubleshooting\obj\Debug\net7.0\ref\CATroubleshooting.dll

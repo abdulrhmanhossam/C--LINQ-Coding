@@ -1,0 +1,14 @@
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\bin\Debug\net7.0\LINQTut03.Ex02.exe
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\bin\Debug\net7.0\LINQTut03.Ex02.deps.json
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\bin\Debug\net7.0\LINQTut03.Ex02.runtimeconfig.json
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\bin\Debug\net7.0\LINQTut03.Ex02.dll
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\bin\Debug\net7.0\LINQTut03.Ex02.pdb
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.AssemblyInfoInputs.cache
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.AssemblyInfo.cs
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.csproj.CoreCompileInputs.cache
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.dll
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\refint\LINQTut03.Ex02.dll
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.pdb
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\LINQTut03.Ex02.genruntimeconfig.cache
+E:\C#_Project\LINQTut03\LINQTut03.Ex02\obj\Debug\net7.0\ref\LINQTut03.Ex02.dll

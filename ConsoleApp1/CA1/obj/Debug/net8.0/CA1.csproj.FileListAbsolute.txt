@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CA1\bin\Debug\net8.0\CA1.exe
+E:\C#_Project\ConsoleApp1\CA1\bin\Debug\net8.0\CA1.deps.json
+E:\C#_Project\ConsoleApp1\CA1\bin\Debug\net8.0\CA1.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CA1\bin\Debug\net8.0\CA1.dll
+E:\C#_Project\ConsoleApp1\CA1\bin\Debug\net8.0\CA1.pdb
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.dll
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\refint\CA1.dll
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.pdb
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\CA1.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CA1\obj\Debug\net8.0\ref\CA1.dll

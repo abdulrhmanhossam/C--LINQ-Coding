@@ -1,0 +1,14 @@
+E:\C#_Project\CADelegate\CADelegate\bin\Debug\net7.0\CADelegate.exe
+E:\C#_Project\CADelegate\CADelegate\bin\Debug\net7.0\CADelegate.deps.json
+E:\C#_Project\CADelegate\CADelegate\bin\Debug\net7.0\CADelegate.runtimeconfig.json
+E:\C#_Project\CADelegate\CADelegate\bin\Debug\net7.0\CADelegate.dll
+E:\C#_Project\CADelegate\CADelegate\bin\Debug\net7.0\CADelegate.pdb
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfoInputs.cache
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfo.cs
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.csproj.CoreCompileInputs.cache
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.dll
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\refint\CADelegate.dll
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.pdb
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\CADelegate.genruntimeconfig.cache
+E:\C#_Project\CADelegate\CADelegate\obj\Debug\net7.0\ref\CADelegate.dll

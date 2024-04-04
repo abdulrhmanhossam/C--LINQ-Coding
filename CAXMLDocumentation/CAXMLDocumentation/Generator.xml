@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+	<members name="generator">
+		<Generator>
+			<summary>
+				The main Generator class
+			</summary>
+			<remarks>
+				This class can generate employee id and random password
+			</remarks>
+		</Generator>
+
+		<GenerateId>
+			<summary>
+				Generate Employee Id by Proccessing <paramref name="fName"/>, <paramref name="lName"/>, <paramref name="hireDate"/>
+				<list type="bullet">
+					<item>
+						<term>II</term>
+						<description>
+							Employee Initials (first letter of <paramref name="lName"/> and first letter of <paramref name="fName"/>)
+						</description>
+					</item>
+					<item>
+						<term>YY</term>
+						<description>Hire Date 2 digit Year</description>
+					</item>
+					<item>
+						<term>MM</term>
+						<description>Hire Date 2 digit Month</description>
+					</item>
+					<item>
+						<term>DD</term>
+						<description>Hire Date 2 digit Day</description>
+					</item>
+				</list>
+			</summary>
+			<param name="fName"></param>
+			<param name="lName"></param>
+			<param name="hireDate"></param>
+			<returns>Employee Id as a string</returns>
+			<exception cref="T:System.InvalidOperationException">
+				Thrown when <paramref name="fName"/> is null
+			</exception>
+			<exception cref="T:System.InvalidOperationException">
+				Thrown when <paramref name="lName"/> is null
+			</exception>
+			<exception cref="T:System.InvalidOperationException">
+				Thrown when <paramref name="hireDate"/> is in the past
+			</exception>
+			See <see cref="M:Generator.GenerateRandomPassword(System.Int32)"/> to Generate Random Password
+		</GenerateId>
+	</members>
+</doc>

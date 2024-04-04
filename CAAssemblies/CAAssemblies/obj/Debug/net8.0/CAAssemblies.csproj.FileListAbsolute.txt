@@ -1,0 +1,14 @@
+E:\C#_Project\CAAssemblies\CAAssemblies\bin\Debug\net8.0\CAAssemblies.exe
+E:\C#_Project\CAAssemblies\CAAssemblies\bin\Debug\net8.0\CAAssemblies.deps.json
+E:\C#_Project\CAAssemblies\CAAssemblies\bin\Debug\net8.0\CAAssemblies.runtimeconfig.json
+E:\C#_Project\CAAssemblies\CAAssemblies\bin\Debug\net8.0\CAAssemblies.dll
+E:\C#_Project\CAAssemblies\CAAssemblies\bin\Debug\net8.0\CAAssemblies.pdb
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.AssemblyInfoInputs.cache
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.AssemblyInfo.cs
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.dll
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\refint\CAAssemblies.dll
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.pdb
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\CAAssemblies.genruntimeconfig.cache
+E:\C#_Project\CAAssemblies\CAAssemblies\obj\Debug\net8.0\ref\CAAssemblies.dll

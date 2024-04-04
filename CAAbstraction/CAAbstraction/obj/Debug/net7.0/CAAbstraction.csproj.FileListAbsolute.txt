@@ -1,0 +1,14 @@
+E:\C#_Project\CAAbstraction\CAAbstraction\bin\Debug\net7.0\CAAbstraction.exe
+E:\C#_Project\CAAbstraction\CAAbstraction\bin\Debug\net7.0\CAAbstraction.deps.json
+E:\C#_Project\CAAbstraction\CAAbstraction\bin\Debug\net7.0\CAAbstraction.runtimeconfig.json
+E:\C#_Project\CAAbstraction\CAAbstraction\bin\Debug\net7.0\CAAbstraction.dll
+E:\C#_Project\CAAbstraction\CAAbstraction\bin\Debug\net7.0\CAAbstraction.pdb
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.AssemblyInfoInputs.cache
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.AssemblyInfo.cs
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.dll
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\refint\CAAbstraction.dll
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.pdb
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\CAAbstraction.genruntimeconfig.cache
+E:\C#_Project\CAAbstraction\CAAbstraction\obj\Debug\net7.0\ref\CAAbstraction.dll

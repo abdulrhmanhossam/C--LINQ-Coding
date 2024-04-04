@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CAFinalizer\bin\Debug\net7.0\CAFinalizer.exe
+E:\C#_Project\ConsoleApp1\CAFinalizer\bin\Debug\net7.0\CAFinalizer.deps.json
+E:\C#_Project\ConsoleApp1\CAFinalizer\bin\Debug\net7.0\CAFinalizer.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CAFinalizer\bin\Debug\net7.0\CAFinalizer.dll
+E:\C#_Project\ConsoleApp1\CAFinalizer\bin\Debug\net7.0\CAFinalizer.pdb
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.dll
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\refint\CAFinalizer.dll
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.pdb
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\CAFinalizer.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CAFinalizer\obj\Debug\net7.0\ref\CAFinalizer.dll

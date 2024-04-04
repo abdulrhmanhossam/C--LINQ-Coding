@@ -1,0 +1,14 @@
+E:\C#_Project\LINQTut01\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.exe
+E:\C#_Project\LINQTut01\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.deps.json
+E:\C#_Project\LINQTut01\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.runtimeconfig.json
+E:\C#_Project\LINQTut01\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.dll
+E:\C#_Project\LINQTut01\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.pdb
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfoInputs.cache
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfo.cs
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.dll
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\refint\FunctionalProgramming.dll
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.pdb
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.genruntimeconfig.cache
+E:\C#_Project\LINQTut01\FunctionalProgramming\obj\Debug\net7.0\ref\FunctionalProgramming.dll

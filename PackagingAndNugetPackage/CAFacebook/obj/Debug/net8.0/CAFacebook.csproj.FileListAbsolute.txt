@@ -1,0 +1,17 @@
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\CAFacebook.exe
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\CAFacebook.deps.json
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\CAFacebook.runtimeconfig.json
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\CAFacebook.dll
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\CAFacebook.pdb
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.AssemblyInfoInputs.cache
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.AssemblyInfo.cs
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.csproj.CoreCompileInputs.cache
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.dll
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\refint\CAFacebook.dll
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.pdb
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.genruntimeconfig.cache
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\ref\CAFacebook.dll
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\bin\Debug\net8.0\Humanizer.dll
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.csproj.AssemblyReference.cache
+E:\C#_Project\PackagingAndNugetPackage\CAFacebook\obj\Debug\net8.0\CAFacebook.csproj.CopyComplete

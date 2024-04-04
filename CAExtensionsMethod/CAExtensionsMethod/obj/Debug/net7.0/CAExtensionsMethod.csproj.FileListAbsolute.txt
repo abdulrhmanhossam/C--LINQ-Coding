@@ -1,0 +1,14 @@
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\bin\Debug\net7.0\CAExtensionsMethod.exe
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\bin\Debug\net7.0\CAExtensionsMethod.deps.json
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\bin\Debug\net7.0\CAExtensionsMethod.runtimeconfig.json
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\bin\Debug\net7.0\CAExtensionsMethod.dll
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\bin\Debug\net7.0\CAExtensionsMethod.pdb
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.AssemblyInfoInputs.cache
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.AssemblyInfo.cs
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.dll
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\refint\CAExtensionsMethod.dll
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.pdb
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\CAExtensionsMethod.genruntimeconfig.cache
+E:\C#_Project\CAExtensionsMethod\CAExtensionsMethod\obj\Debug\net7.0\ref\CAExtensionsMethod.dll

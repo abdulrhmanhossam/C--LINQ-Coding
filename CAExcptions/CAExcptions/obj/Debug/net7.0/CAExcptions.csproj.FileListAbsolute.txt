@@ -1,0 +1,14 @@
+E:\C#_Project\CAExcptions\CAExcptions\bin\Debug\net7.0\CAExcptions.exe
+E:\C#_Project\CAExcptions\CAExcptions\bin\Debug\net7.0\CAExcptions.deps.json
+E:\C#_Project\CAExcptions\CAExcptions\bin\Debug\net7.0\CAExcptions.runtimeconfig.json
+E:\C#_Project\CAExcptions\CAExcptions\bin\Debug\net7.0\CAExcptions.dll
+E:\C#_Project\CAExcptions\CAExcptions\bin\Debug\net7.0\CAExcptions.pdb
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.AssemblyInfoInputs.cache
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.AssemblyInfo.cs
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.dll
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\refint\CAExcptions.dll
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.pdb
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\CAExcptions.genruntimeconfig.cache
+E:\C#_Project\CAExcptions\CAExcptions\obj\Debug\net7.0\ref\CAExcptions.dll

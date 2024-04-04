@@ -1,0 +1,14 @@
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.exe
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.deps.json
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.runtimeconfig.json
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.dll
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\bin\Debug\net7.0\CAXMLDocumentation.pdb
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.AssemblyInfoInputs.cache
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.AssemblyInfo.cs
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.dll
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\refint\CAXMLDocumentation.dll
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.pdb
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\CAXMLDocumentation.genruntimeconfig.cache
+E:\C#_Project\CAXMLDocumentation\CAXMLDocumentation\obj\Debug\net7.0\ref\CAXMLDocumentation.dll

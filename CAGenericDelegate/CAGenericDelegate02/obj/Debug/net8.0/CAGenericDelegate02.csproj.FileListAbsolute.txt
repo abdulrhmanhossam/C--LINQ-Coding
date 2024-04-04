@@ -1,0 +1,14 @@
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\bin\Debug\net8.0\CAGenericDelegate02.exe
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\bin\Debug\net8.0\CAGenericDelegate02.deps.json
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\bin\Debug\net8.0\CAGenericDelegate02.runtimeconfig.json
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\bin\Debug\net8.0\CAGenericDelegate02.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\bin\Debug\net8.0\CAGenericDelegate02.pdb
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.AssemblyInfoInputs.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.AssemblyInfo.cs
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\refint\CAGenericDelegate02.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.pdb
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\CAGenericDelegate02.genruntimeconfig.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate02\obj\Debug\net8.0\ref\CAGenericDelegate02.dll

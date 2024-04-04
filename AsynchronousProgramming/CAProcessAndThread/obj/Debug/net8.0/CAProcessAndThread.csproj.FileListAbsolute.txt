@@ -1,0 +1,14 @@
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net8.0\CAProcessAndThread.exe
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net8.0\CAProcessAndThread.deps.json
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net8.0\CAProcessAndThread.runtimeconfig.json
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net8.0\CAProcessAndThread.dll
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net8.0\CAProcessAndThread.pdb
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.AssemblyInfoInputs.cache
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.AssemblyInfo.cs
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.csproj.CoreCompileInputs.cache
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.dll
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\refint\CAProcessAndThread.dll
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.pdb
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\CAProcessAndThread.genruntimeconfig.cache
+E:\C#_Project\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net8.0\ref\CAProcessAndThread.dll

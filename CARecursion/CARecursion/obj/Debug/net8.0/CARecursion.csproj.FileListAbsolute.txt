@@ -1,0 +1,14 @@
+E:\C#_Project\CARecursion\CARecursion\bin\Debug\net8.0\CARecursion.exe
+E:\C#_Project\CARecursion\CARecursion\bin\Debug\net8.0\CARecursion.deps.json
+E:\C#_Project\CARecursion\CARecursion\bin\Debug\net8.0\CARecursion.runtimeconfig.json
+E:\C#_Project\CARecursion\CARecursion\bin\Debug\net8.0\CARecursion.dll
+E:\C#_Project\CARecursion\CARecursion\bin\Debug\net8.0\CARecursion.pdb
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.AssemblyInfoInputs.cache
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.AssemblyInfo.cs
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.csproj.CoreCompileInputs.cache
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.dll
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\refint\CARecursion.dll
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.pdb
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\CARecursion.genruntimeconfig.cache
+E:\C#_Project\CARecursion\CARecursion\obj\Debug\net8.0\ref\CARecursion.dll

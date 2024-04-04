@@ -1,0 +1,14 @@
+E:\C#_Project\Collections\CALists\bin\Debug\net8.0\CALists.exe
+E:\C#_Project\Collections\CALists\bin\Debug\net8.0\CALists.deps.json
+E:\C#_Project\Collections\CALists\bin\Debug\net8.0\CALists.runtimeconfig.json
+E:\C#_Project\Collections\CALists\bin\Debug\net8.0\CALists.dll
+E:\C#_Project\Collections\CALists\bin\Debug\net8.0\CALists.pdb
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.AssemblyInfoInputs.cache
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.AssemblyInfo.cs
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.csproj.CoreCompileInputs.cache
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.dll
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\refint\CALists.dll
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.pdb
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\CALists.genruntimeconfig.cache
+E:\C#_Project\Collections\CALists\obj\Debug\net8.0\ref\CALists.dll

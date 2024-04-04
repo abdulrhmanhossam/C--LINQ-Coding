@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWyxbG9X4rZDpeLv+pqJl11xO5oqrbpZNhSTHsLYqEMUSuuDuZgUhgMpP+A5t80Uh+5i0oRAkjTxHdMP6hPEuQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#_Project\\PackagingAndNugetPackage\\CAFacebook\\CAFacebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

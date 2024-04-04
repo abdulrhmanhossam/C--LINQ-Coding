@@ -1,0 +1,11 @@
+E:\C#_Project\LINQTut05\LINQTut05.Shared\bin\Debug\net8.0\LINQTut05.Shared.deps.json
+E:\C#_Project\LINQTut05\LINQTut05.Shared\bin\Debug\net8.0\LINQTut05.Shared.dll
+E:\C#_Project\LINQTut05\LINQTut05.Shared\bin\Debug\net8.0\LINQTut05.Shared.pdb
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.AssemblyInfoInputs.cache
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.AssemblyInfo.cs
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.csproj.CoreCompileInputs.cache
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.dll
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\refint\LINQTut05.Shared.dll
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\LINQTut05.Shared.pdb
+E:\C#_Project\LINQTut05\LINQTut05.Shared\obj\Debug\net8.0\ref\LINQTut05.Shared.dll

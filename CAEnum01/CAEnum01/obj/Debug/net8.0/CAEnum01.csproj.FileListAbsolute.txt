@@ -1,0 +1,14 @@
+E:\C#_Project\CAEnum01\CAEnum01\bin\Debug\net8.0\CAEnum01.exe
+E:\C#_Project\CAEnum01\CAEnum01\bin\Debug\net8.0\CAEnum01.deps.json
+E:\C#_Project\CAEnum01\CAEnum01\bin\Debug\net8.0\CAEnum01.runtimeconfig.json
+E:\C#_Project\CAEnum01\CAEnum01\bin\Debug\net8.0\CAEnum01.dll
+E:\C#_Project\CAEnum01\CAEnum01\bin\Debug\net8.0\CAEnum01.pdb
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.AssemblyInfoInputs.cache
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.AssemblyInfo.cs
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.dll
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\refint\CAEnum01.dll
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.pdb
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\CAEnum01.genruntimeconfig.cache
+E:\C#_Project\CAEnum01\CAEnum01\obj\Debug\net8.0\ref\CAEnum01.dll

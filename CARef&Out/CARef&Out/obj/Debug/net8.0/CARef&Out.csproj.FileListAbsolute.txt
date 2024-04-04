@@ -1,0 +1,14 @@
+E:\C#_Project\CARef&Out\CARef&Out\bin\Debug\net8.0\CARef&Out.exe
+E:\C#_Project\CARef&Out\CARef&Out\bin\Debug\net8.0\CARef&Out.deps.json
+E:\C#_Project\CARef&Out\CARef&Out\bin\Debug\net8.0\CARef&Out.runtimeconfig.json
+E:\C#_Project\CARef&Out\CARef&Out\bin\Debug\net8.0\CARef&Out.dll
+E:\C#_Project\CARef&Out\CARef&Out\bin\Debug\net8.0\CARef&Out.pdb
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.AssemblyInfoInputs.cache
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.AssemblyInfo.cs
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.csproj.CoreCompileInputs.cache
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.dll
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\refint\CARef&Out.dll
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.pdb
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\CARef&Out.genruntimeconfig.cache
+E:\C#_Project\CARef&Out\CARef&Out\obj\Debug\net8.0\ref\CARef&Out.dll

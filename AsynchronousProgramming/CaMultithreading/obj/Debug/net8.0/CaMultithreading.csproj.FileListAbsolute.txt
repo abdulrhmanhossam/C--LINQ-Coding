@@ -1,0 +1,14 @@
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\bin\Debug\net8.0\CaMultithreading.exe
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\bin\Debug\net8.0\CaMultithreading.deps.json
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\bin\Debug\net8.0\CaMultithreading.runtimeconfig.json
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\bin\Debug\net8.0\CaMultithreading.dll
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\bin\Debug\net8.0\CaMultithreading.pdb
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.AssemblyInfoInputs.cache
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.AssemblyInfo.cs
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.csproj.CoreCompileInputs.cache
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.dll
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\refint\CaMultithreading.dll
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.pdb
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\CaMultithreading.genruntimeconfig.cache
+E:\C#_Project\AsynchronousProgramming\CaMultithreading\obj\Debug\net8.0\ref\CaMultithreading.dll

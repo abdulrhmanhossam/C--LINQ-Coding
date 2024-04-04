@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQTut13.Concatenation/1.0.0": {
+        "dependencies": {
+          "LINQTut.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LINQTut13.Concatenation.dll": {}
+        }
+      },
+      "LINQTut.Shared/1.0.0": {
+        "runtime": {
+          "LINQTut.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQTut13.Concatenation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQTut.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

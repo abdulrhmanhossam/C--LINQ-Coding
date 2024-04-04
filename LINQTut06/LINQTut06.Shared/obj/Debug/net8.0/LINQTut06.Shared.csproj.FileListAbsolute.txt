@@ -1,0 +1,11 @@
+E:\C#_Project\LINQTut06\LINQTut06.Shared\bin\Debug\net8.0\LINQTut06.Shared.deps.json
+E:\C#_Project\LINQTut06\LINQTut06.Shared\bin\Debug\net8.0\LINQTut06.Shared.dll
+E:\C#_Project\LINQTut06\LINQTut06.Shared\bin\Debug\net8.0\LINQTut06.Shared.pdb
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.AssemblyInfoInputs.cache
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.AssemblyInfo.cs
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.csproj.CoreCompileInputs.cache
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.dll
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\refint\LINQTut06.Shared.dll
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\LINQTut06.Shared.pdb
+E:\C#_Project\LINQTut06\LINQTut06.Shared\obj\Debug\net8.0\ref\LINQTut06.Shared.dll

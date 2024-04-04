@@ -1,0 +1,14 @@
+E:\C#_Project\AsynchronousProgramming\CASequentail\bin\Debug\net8.0\CASequentail.exe
+E:\C#_Project\AsynchronousProgramming\CASequentail\bin\Debug\net8.0\CASequentail.deps.json
+E:\C#_Project\AsynchronousProgramming\CASequentail\bin\Debug\net8.0\CASequentail.runtimeconfig.json
+E:\C#_Project\AsynchronousProgramming\CASequentail\bin\Debug\net8.0\CASequentail.dll
+E:\C#_Project\AsynchronousProgramming\CASequentail\bin\Debug\net8.0\CASequentail.pdb
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.AssemblyInfoInputs.cache
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.AssemblyInfo.cs
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.csproj.CoreCompileInputs.cache
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.dll
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\refint\CASequentail.dll
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.pdb
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\CASequentail.genruntimeconfig.cache
+E:\C#_Project\AsynchronousProgramming\CASequentail\obj\Debug\net8.0\ref\CASequentail.dll

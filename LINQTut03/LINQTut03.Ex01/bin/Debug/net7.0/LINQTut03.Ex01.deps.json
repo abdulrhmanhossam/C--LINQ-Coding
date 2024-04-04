@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LINQTut03.Ex01/1.0.0": {
+        "dependencies": {
+          "LINQTut03.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LINQTut03.Ex01.dll": {}
+        }
+      },
+      "LINQTut03.Shared/1.0.0": {
+        "runtime": {
+          "LINQTut03.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQTut03.Ex01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQTut03.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

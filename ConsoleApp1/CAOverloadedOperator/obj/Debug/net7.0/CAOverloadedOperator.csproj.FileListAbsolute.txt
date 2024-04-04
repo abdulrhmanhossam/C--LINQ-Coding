@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\bin\Debug\net7.0\CAOverloadedOperator.exe
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\bin\Debug\net7.0\CAOverloadedOperator.deps.json
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\bin\Debug\net7.0\CAOverloadedOperator.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\bin\Debug\net7.0\CAOverloadedOperator.dll
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\bin\Debug\net7.0\CAOverloadedOperator.pdb
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.dll
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\refint\CAOverloadedOperator.dll
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.pdb
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\CAOverloadedOperator.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CAOverloadedOperator\obj\Debug\net7.0\ref\CAOverloadedOperator.dll

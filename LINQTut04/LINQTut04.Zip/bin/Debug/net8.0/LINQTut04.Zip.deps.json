@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQTut04.Zip/1.0.0": {
+        "dependencies": {
+          "LINQTut04.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LINQTut04.Zip.dll": {}
+        }
+      },
+      "LINQTut04.Shared/1.0.0": {
+        "runtime": {
+          "LINQTut04.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQTut04.Zip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQTut04.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

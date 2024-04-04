@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\tst\bin\Debug\net7.0\tst.exe
+E:\C#_Project\ConsoleApp1\tst\bin\Debug\net7.0\tst.deps.json
+E:\C#_Project\ConsoleApp1\tst\bin\Debug\net7.0\tst.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\tst\bin\Debug\net7.0\tst.dll
+E:\C#_Project\ConsoleApp1\tst\bin\Debug\net7.0\tst.pdb
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.dll
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\refint\tst.dll
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.pdb
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\tst.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\tst\obj\Debug\net7.0\ref\tst.dll

@@ -1,0 +1,14 @@
+E:\C#_Project\ITIDemo02\ITIDemo02\bin\Debug\net8.0\ITIDemo02.exe
+E:\C#_Project\ITIDemo02\ITIDemo02\bin\Debug\net8.0\ITIDemo02.deps.json
+E:\C#_Project\ITIDemo02\ITIDemo02\bin\Debug\net8.0\ITIDemo02.runtimeconfig.json
+E:\C#_Project\ITIDemo02\ITIDemo02\bin\Debug\net8.0\ITIDemo02.dll
+E:\C#_Project\ITIDemo02\ITIDemo02\bin\Debug\net8.0\ITIDemo02.pdb
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.AssemblyInfoInputs.cache
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.AssemblyInfo.cs
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.csproj.CoreCompileInputs.cache
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.dll
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\refint\ITIDemo02.dll
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.pdb
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ITIDemo02.genruntimeconfig.cache
+E:\C#_Project\ITIDemo02\ITIDemo02\obj\Debug\net8.0\ref\ITIDemo02.dll

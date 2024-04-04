@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAEnum02", "CAEnum02\CAEnum02.csproj", "{44DDCDC2-73B1-4E94-B861-A70429842C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DDCDC2-73B1-4E94-B861-A70429842C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DDCDC2-73B1-4E94-B861-A70429842C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DDCDC2-73B1-4E94-B861-A70429842C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DDCDC2-73B1-4E94-B861-A70429842C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EB3FE1-AA59-427F-A12D-F7962359C692}
+	EndGlobalSection
+EndGlobal

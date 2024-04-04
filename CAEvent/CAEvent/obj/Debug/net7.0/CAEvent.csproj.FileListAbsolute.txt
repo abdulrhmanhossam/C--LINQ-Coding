@@ -1,0 +1,14 @@
+E:\C#_Project\CAEvent\CAEvent\bin\Debug\net7.0\CAEvent.exe
+E:\C#_Project\CAEvent\CAEvent\bin\Debug\net7.0\CAEvent.deps.json
+E:\C#_Project\CAEvent\CAEvent\bin\Debug\net7.0\CAEvent.runtimeconfig.json
+E:\C#_Project\CAEvent\CAEvent\bin\Debug\net7.0\CAEvent.dll
+E:\C#_Project\CAEvent\CAEvent\bin\Debug\net7.0\CAEvent.pdb
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.AssemblyInfoInputs.cache
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.AssemblyInfo.cs
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.dll
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\refint\CAEvent.dll
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.pdb
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\CAEvent.genruntimeconfig.cache
+E:\C#_Project\CAEvent\CAEvent\obj\Debug\net7.0\ref\CAEvent.dll

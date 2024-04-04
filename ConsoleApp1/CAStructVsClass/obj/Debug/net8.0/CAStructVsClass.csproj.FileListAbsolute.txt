@@ -1,0 +1,14 @@
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.AssemblyInfoInputs.cache
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.AssemblyInfo.cs
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.csproj.CoreCompileInputs.cache
+E:\C#_Project\ConsoleApp1\CAStructVsClass\bin\Debug\net8.0\CAStructVsClass.exe
+E:\C#_Project\ConsoleApp1\CAStructVsClass\bin\Debug\net8.0\CAStructVsClass.deps.json
+E:\C#_Project\ConsoleApp1\CAStructVsClass\bin\Debug\net8.0\CAStructVsClass.runtimeconfig.json
+E:\C#_Project\ConsoleApp1\CAStructVsClass\bin\Debug\net8.0\CAStructVsClass.dll
+E:\C#_Project\ConsoleApp1\CAStructVsClass\bin\Debug\net8.0\CAStructVsClass.pdb
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.dll
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\refint\CAStructVsClass.dll
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.pdb
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\CAStructVsClass.genruntimeconfig.cache
+E:\C#_Project\ConsoleApp1\CAStructVsClass\obj\Debug\net8.0\ref\CAStructVsClass.dll

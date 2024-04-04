@@ -1,0 +1,14 @@
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\bin\Debug\net7.0\CAGenericDelegate.exe
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\bin\Debug\net7.0\CAGenericDelegate.deps.json
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\bin\Debug\net7.0\CAGenericDelegate.runtimeconfig.json
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\bin\Debug\net7.0\CAGenericDelegate.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\bin\Debug\net7.0\CAGenericDelegate.pdb
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.AssemblyInfoInputs.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.AssemblyInfo.cs
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.csproj.CoreCompileInputs.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\refint\CAGenericDelegate.dll
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.pdb
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\CAGenericDelegate.genruntimeconfig.cache
+E:\C#_Project\CAGenericDelegate\CAGenericDelegate\obj\Debug\net7.0\ref\CAGenericDelegate.dll

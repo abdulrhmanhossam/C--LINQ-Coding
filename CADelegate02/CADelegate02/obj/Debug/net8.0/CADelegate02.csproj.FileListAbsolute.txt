@@ -1,0 +1,14 @@
+E:\C#_Project\CADelegate02\CADelegate02\bin\Debug\net8.0\CADelegate02.exe
+E:\C#_Project\CADelegate02\CADelegate02\bin\Debug\net8.0\CADelegate02.deps.json
+E:\C#_Project\CADelegate02\CADelegate02\bin\Debug\net8.0\CADelegate02.runtimeconfig.json
+E:\C#_Project\CADelegate02\CADelegate02\bin\Debug\net8.0\CADelegate02.dll
+E:\C#_Project\CADelegate02\CADelegate02\bin\Debug\net8.0\CADelegate02.pdb
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.AssemblyInfoInputs.cache
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.AssemblyInfo.cs
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.csproj.CoreCompileInputs.cache
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.dll
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\refint\CADelegate02.dll
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.pdb
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\CADelegate02.genruntimeconfig.cache
+E:\C#_Project\CADelegate02\CADelegate02\obj\Debug\net8.0\ref\CADelegate02.dll
